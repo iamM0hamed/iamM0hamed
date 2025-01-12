@@ -10,7 +10,7 @@
 
 - 📫 How to reach me : **mah2mdahm3d121@gmail.com**
 
-- ⚡ Fun fact : **Biscuits Solve much problem than you think.**
+- ⚡ Fun fact : **Biscuits Solve much problems than you think.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
