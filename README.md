@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamed</h1>
 <h3 align="center">I’m a second-level student at the Faculty of Computers and AI, Cairo University, passionate about programming, problem-solving, and building cool projects. I’m currently diving deep into C++ and exploring other technologies to expand my skills.</h3>
+(img align="right" alt="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamm0hamed&label=Profile%20views&color=0e75b6&style=flat" alt="iamm0hamed" /> </p>
 
