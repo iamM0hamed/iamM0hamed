@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Mohamed Hamed]!
+# 👋 Hello, I'm Mohamed Hamed!
 
-![Banner](https://via.placeholder.com/1500x500.png?text=Welcome+to+My+GitHub+Profile!)  
+(https://via.placeholder.com/1500x500.png?text=C%2B%2B+Enthusiast+%7C+Cairo+University+%7C+Faculty+of+Computers+and+AI) 
 
 I’m a **second-level student** at the **Faculty of Computers and AI, Cairo University**, passionate about programming, problem-solving, and building cool projects. I’m currently diving deep into **C++** and exploring other technologies to expand my skills.
 
