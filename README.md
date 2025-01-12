@@ -1,72 +1,60 @@
-# 🚀 Welcome to [Your Organization Name]!
+# 👋 Hello, I'm [Mohamed Hamed]!
 
-![Banner](https://via.placeholder.com/1500x500.png?text=Your+Awesome+Banner+Here)  
-*(Replace this with a custom banner image that represents your organization.)*
+![Banner](https://via.placeholder.com/1500x500.png?text=Welcome+to+My+GitHub+Profile!)  
 
-We are a team of passionate developers, designers, and innovators dedicated to **[your mission or purpose]**. Our goal is to **[specific goal, e.g., build open-source tools, solve real-world problems, etc.]**. Join us in making a difference!
-
----
-
-## 🌟 Featured Projects
-
-Here are some of our most popular and impactful projects:
-
-- **[Project 1](link)**: A brief description of what this project does and why it’s awesome.
-- **[Project 2](link)**: A brief description of what this project does and why it’s awesome.
-- **[Project 3](link)**: A brief description of what this project does and why it’s awesome.
+I’m a **second-level student** at the **Faculty of Computers and AI, Cairo University**, passionate about programming, problem-solving, and building cool projects. I’m currently diving deep into **C++** and exploring other technologies to expand my skills.
 
 ---
 
-## 🛠️ Technologies We Use
+## 💻 What I Work With
 
-We work with a variety of technologies to build our projects. Here are some of our favorites:
+Here are the technologies and tools I’m currently working with:
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
----
-
-## 🎯 How to Contribute
-
-We welcome contributions from everyone! Here’s how you can get started:
-
-1. **Fork the repository** you want to contribute to.
-2. **Create a new branch** for your changes.
-3. **Make your changes** and test them thoroughly.
-4. **Submit a pull request** with a clear description of your changes.
-
-Check out our [Contribution Guidelines](link-to-contributing.md) for more details.
+- **C++**: My go-to language for building high-performance and efficient applications.
+- **Git & GitHub**: For version control and collaboration with others.
+- **Algorithms & Data Structures**: Solving problems and optimizing solutions.
 
 ---
 
-## 📂 Our Repositories
+## 🚀 My Projects
 
-Here are some of our key repositories:
+Here are some of the projects I’ve worked on:
 
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [Repo 1](link) | A brief description of the repository. | ![Stars](https://img.shields.io/github/stars/org/repo?style=flat-square) |
-| [Repo 2](link) | A brief description of the repository. | ![Stars](https://img.shields.io/github/stars/org/repo?style=flat-square) |
-| [Repo 3](link) | A brief description of the repository. | ![Stars](https://img.shields.io/github/stars/org/repo?style=flat-square) |
+### C++ Projects
+- **[Simple Iamge-filter](https://github.com/iamM0hamed/Image-simple-filters)**.
+- **[Simple different Tic-Tac-Toe Games](https://github.com/iamM0hamed/TIC-TAC-TOE-DIFFERENT-GAMES)**.  
+  
+---
+
+## 📚 What I’m Learning
+
+I’m always eager to learn and grow. Currently, I’m focusing on:
+- Advanced C++ (STL, Modern C++, etc.).
+- Competitive programming and problem-solving.
+---
+
+## 🌟 Goals for 2024
+
+- Contribute to open-source projects.
+- Build a portfolio of projects showcasing my skills.
+- Improve my problem-solving skills and participate in more coding competitions.
 
 ---
 
-## 📬 Contact Us
+## 📫 Let’s Connect!
 
-Have questions or want to collaborate? Reach out to us!
+I’m always open to collaborating on projects, learning new things, or just chatting about tech. Feel free to reach out!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Website**: [Your Website](https://yourwebsite.com)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Discord**: [Join our Discord](https://discord.gg/your-invite-link)
-
+- **Email**: mah2mdahm3d121@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/abu-hamed/
+- **LeetCode**: https://leetcode.com/u/7KHR8zSm8i/
+  
 ---
 
-## 📜 License
+## 🍪 Fun Fact
 
-All our projects are open-source and licensed under the **[MIT License](link-to-license)**. Feel free to use, modify, and distribute them as per the license terms.
-
+I'm 
+I’m a huge fan of biscuits! If you’re reading this, send me a virtual biscuit 🍪—it’ll make my day! 😄
 ---
 
-## 🙏 Thank You!
-
-Thank you for visiting our GitHub organization. We appreciate your support and contributions. Let’s build something amazing together! 🚀
+Thanks for visiting my profile! Let’s build something amazing together! 🚀
