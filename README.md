@@ -5,7 +5,6 @@
 <img align="right" alt="coding" witdth="350" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh0cm8xZ2Nremlza25uZXNxcmsyd3Vmbm5oanI0dW5oeXFyOThxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamm0hamed&label=Profile%20views&color=0e75b6&style=flat" alt="iamm0hamed" /> </p>
 
 - 🌱 I’m currently learning **Web Dev.**
 
@@ -16,6 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/abuhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abuhamed" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abu-hamed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
