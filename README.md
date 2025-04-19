@@ -8,14 +8,17 @@
 <div style="margin-top: 90px;">
   <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh0cm8xZ2Nremlza25uZXNxcmsyd3Vmbm5oanI0dW5oeXFyOThxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
 </div>
-## About Me
-- 🎓 Second-year student at Faculty of Computers & AI Cairo University
-- 💻 Passionate about algorithms, data structures, and optimization
-- 🌱 Currently expanding my skills in **Web Development**
-- 🚀 Deeply focused on mastering **C++** and exploring its advanced concepts
-- 🎯 Working on building practical projects that solve real problems
-- 📫 Reach me at: **mah2mdahm3d121@gmail.com**
-- ⚡ Fun fact: **Biscuits solve more problems than you think!**
+
+<h2>About Me</h2>
+<ul>
+  <li>🎓 Second-year student at Faculty of Computers & AI Cairo University</li>
+  <li>💻 Passionate about algorithms, data structures, and optimization</li>
+  <li>🌱 Currently expanding my skills in <strong>Web Development</strong></li>
+  <li>🚀 Deeply focused on mastering <strong>C++</strong> and exploring its advanced concepts</li>
+  <li>🎯 Working on building practical projects that solve real problems</li>
+  <li>📫 Reach me at: <strong>mah2mdahm3d121@gmail.com</strong></li>
+  <li>⚡ Fun fact: <strong>Biscuits solve more problems than you think!</strong></li>
+</ul>
 
 ## Skills & Technologies
 
