@@ -5,9 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Passionate+Problem+Solver;Algorithm+Enthusiast;Frontend+Developer" alt="Typing SVG" />
 </div>
 
-<div style="margin-top: 90;">
-  <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh0cm8xZ2Nremlza25uZXNxcmsyd3Vmbm5oanI0dW5oeXFyOThxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
-</div>
+<br><br><br>
+<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh0cm8xZ2Nremlza25uZXNxcmsyd3Vmbm5oanI0dW5oeXFyOThxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
 
 <h2>About Me</h2>
 <ul>
@@ -20,9 +19,8 @@
   <li>⚡ Fun fact: <strong>Biscuits solve more problems than you think!</strong></li>
 </ul>
 
-## Skills & Technologies
-
-### Languages:
+<h2>Skills & Technologies</h2>
+<h3>Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -35,14 +33,14 @@
   </a>
 </p>
 
-### Tools:
+<h3>Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
 
-## Connect With Me
+<h2>Connect With Me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/abu-hamed/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hamed" height="30" width="40" />
@@ -52,7 +50,7 @@
   </a>
 </p>
 
-## GitHub Stats
+<h2>GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamm0hamed&show_icons=true&locale=en&theme=tokyonight" alt="iamm0hamed" />
 </div>
