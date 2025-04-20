@@ -7,9 +7,6 @@
 </div>
 
 <br>
-<div align="right">
-  <img width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh0cm8xZ2Nremlza25uZXNxcmsyd3Vmbm5oanI0dW5oeXFyOThxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
-</div>
 
 ## About Me
 - 🎓 Second-year student at Faculty of Computers & AI Cairo University
@@ -19,6 +16,10 @@
 - 🎯 Working on building practical projects that solve real problems
 - 📫 Reach me at: **mah2mdahm3d121@gmail.com**
 - ⚡ Fun fact: **Biscuits solve more problems than you think!**
+
+<div align="right">
+  <img width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh0cm8xZ2Nremlza25uZXNxcmsyd3Vmbm5oanI0dW5oeXFyOThxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
+</div>
 
 ## Skills & Technologies
 
