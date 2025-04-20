@@ -13,7 +13,7 @@
 - 💻 Passionate about algorithms, data structures, and optimization
 - 🌱 Currently expanding my skills in **Web Development**
 
-<div align="right">
+<div align="right" inline>
   <img width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh0cm8xZ2Nremlza25uZXNxcmsyd3Vmbm5oanI0dW5oeXFyOThxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
 </div>
 
