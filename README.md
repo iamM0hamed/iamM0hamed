@@ -7,7 +7,7 @@
 </div>
 
 <br>
-<div style="padding-top: 80px;">
+<div align="right">
   <img align="right" alt="Coding" width="350"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh0cm8xZ2Nremlza25uZXNxcmsyd3Vmbm5oanI0dW5oeXFyOThxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">  
 </div>
 
