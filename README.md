@@ -47,11 +47,15 @@
   <a href="https://www.linkedin.com/in/abu-hamed/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hamed" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/abuhamed" target="blank">
+</p>
+
+##Problem Solving On
+<p align="left">
+ <a href="https://www.leetcode.com/abuhamed" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abuhamed" height="30" width="40" />
   </a>
 </p>
-
+  
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamm0hamed&show_icons=true&locale=en&theme=tokyonight" alt="iamm0hamed" />
