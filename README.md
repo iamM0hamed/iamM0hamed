@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohamed Hamed
 
-### Computer Science student at Faculty of Computers & AI, Cairo University
+### Student at Faculty of Computers & AI, Cairo University
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Passionate+Problem+Solver;Algorithm+Enthusiast;Frontend+Developer" alt="Typing SVG" />
