@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on **Front-End apps**  
-- 🌱 I’m currently learning **ReactJS and Machine Learning**  
+- 🌱 I’m currently learning **ReactJS and Machine Learning Aglorithms**  
 - 📫 Reach me at **mah2mdahm3d121@gmail.com**  
 - ⚡ Fun fact: **Biscuits help you solve more problems than you think 😉**
 
